@@ -98,10 +98,29 @@
 
 #Days of the week
 
-week = ("monday","tuesday","wednesday","thursday","friday","saturday","sunday")
-print("Printing first three days: ")
-count=0
-for i in week:
-    if count == 3:
-        print(week[i]," ")
-        count = count +1
+# week = ("monday","tuesday","wednesday","thursday","friday","saturday","sunday")
+# print("Printing first three days: ",week[:3])
+# print("Print the weekend days (last two): ",week[-2:])
+# count=0
+# for i in week:
+#     if i == "friday":
+#         count=count+1
+#     else:
+#         None
+# if count > 0:
+#     print("Friday does exist.")
+# else:
+#     print("Friday doesn't exist.")
+
+# 3. Tuple of Names
+
+# Create a tuple of 5 student names.
+
+# Find the position of a given name using index().
+
+# Count how many times a name appears using count().
+# students = ("Asher","Amaya","Govind","Safna","Raashid","Safna","Sourav")
+
+# n = input("Enter a name to find position: ")
+# print("Position if the name is at ",students.index(n))
+# print("Count of the name: ",students.count(n))
