@@ -2,7 +2,7 @@ c=[]
 
 while True:
 
-    print("menu..\n")
+    print("..menu..\n")
     print("1.add items\n")
     print("2.delete items\n")
     print("3.view items 4 to exit\n")
