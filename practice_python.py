@@ -124,5 +124,8 @@
 # n = input("Enter a name to find position: ")
 # print("Position if the name is at ",students.index(n))
 # print("Count of the name: ",students.count(n))
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 0bb525df36756b67226377540c902f76f59ff772
